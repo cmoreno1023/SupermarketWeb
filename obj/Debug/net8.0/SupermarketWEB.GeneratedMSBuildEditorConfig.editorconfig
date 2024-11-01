@@ -42,6 +42,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/invoice/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW52b2ljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/invoice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW52b2ljZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/invoice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW52b2ljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/invoice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW52b2ljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/PayMode/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5TW9kZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -64,6 +80,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/SupermarketWEB/Pages/product/Index.cshtml]
