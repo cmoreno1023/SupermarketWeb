@@ -16,6 +16,8 @@ namespace SupermarketWEB.Data
 
         public DbSet<PayMode> PayModes { get; set; }
 
+        public DbSet<Invoice> Invoices { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
