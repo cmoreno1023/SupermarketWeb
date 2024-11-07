@@ -23,25 +23,30 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Categories/Index">Categories
-                                </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Categories/Index">
+                                Categories
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Providers/Index">Providers
-                                </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Providers/Index">
+                                Providers
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/PayMode/Index">PayMode
-                                </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/PayMode/Index">
+                                PayMode
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Invoice/Index">Invoice
-                                </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Invoice/Index">
+                                Invoice
+                            </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Product/Index">Product</a>
                         </li>
-                        </li>
+                        <!-- Agregamos el partial view del login aquí -->
+                        <partial name="_LoginStatusPartial" />
                     </ul>
                 </div>
             </div>
@@ -52,17 +57,14 @@
             @RenderBody()
         </main>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - SupermarketWEB - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

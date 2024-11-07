@@ -3,16 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Migrations\\20241107200534_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241107200534_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\invoice\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\invoice\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\product\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\paymode\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\paymode\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\paymode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\paymode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\providers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\providers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\supermarketweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,6 +81,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\supermarketweb\\migrations\\20241107200534_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE1BAA-A2BD-43A7-8BCA-1A7039E82DB6}|SupermarketWEB.csproj|solutionrelative:migrations\\20241107200534_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +94,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:45:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\invoice\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\invoice\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\invoice\\Index.cshtml",
+              "RelativeToolTip": "Pages\\invoice\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:44:44.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\product\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\product\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\product\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\product\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:44:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\PayMode\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PayMode\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\PayMode\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\PayMode\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:44:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
@@ -51,20 +163,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-07T20:06:54.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:46:09.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\invoice\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\invoice\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\invoice\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\invoice\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:44:47.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\PayMode\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PayMode\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\PayMode\\Index.cshtml",
+              "RelativeToolTip": "Pages\\PayMode\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:44:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Providers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Providers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Providers\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Providers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:43:52.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:43:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:43:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:26:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:24:17.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:20:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:20:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:17:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "20241107200534_AddUserTable.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Migrations\\20241107200534_AddUserTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20241107200534_AddUserTable.cs",
@@ -72,25 +331,23 @@
               "RelativeToolTip": "Migrations\\20241107200534_AddUserTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T20:05:34.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T20:05:34.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SupermarketWEB",
+              "DocumentIndex": 17,
+              "Title": "SupermarketWEB.csproj",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\SupermarketWEB.csproj",
               "RelativeDocumentMoniker": "SupermarketWEB.csproj",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\SupermarketWEB.csproj",
               "RelativeToolTip": "SupermarketWEB.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T20:04:51.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T20:04:51.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "SupermarketContext.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Data\\SupermarketContext.cs",
               "RelativeDocumentMoniker": "Data\\SupermarketContext.cs",
@@ -98,12 +355,11 @@
               "RelativeToolTip": "Data\\SupermarketContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T20:03:35.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T20:03:35.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\SupermarketWEB\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -111,12 +367,7 @@
               "RelativeToolTip": "Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T20:02:39.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-07T20:02:39.197Z"
             }
           ]
         }
